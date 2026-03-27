@@ -12,6 +12,9 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
+  "engines": {
+  "node": "16.x"
+},
   "dependencies": {
     "@fontsource/playfair-display": "^5.2.8",
     "@fontsource/special-elite": "^5.2.8",
